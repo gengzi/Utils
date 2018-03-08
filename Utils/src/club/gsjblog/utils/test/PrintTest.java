@@ -17,6 +17,8 @@ public class PrintTest {
 		String format = "%s";
 		printf(format, "<<<hello world");
 		PrintStream printf = printf("我的年龄是  %d", 1111);
+		
+		print();
 	}
 
 }
