@@ -4,7 +4,6 @@ import java.io.PrintStream;
 
 /**
  * print 输出工具类
- * @author gengzi
  * @time 2018年3月8日09:15:11
  *
  */
