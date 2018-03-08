@@ -5,6 +5,7 @@ package club.gsjblog.utils;
  *
  */
 public class Range {
+	
 	/**
 	 *  返回从0到n 的整数序列
 	 * @param n
